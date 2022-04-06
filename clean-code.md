@@ -1,6 +1,6 @@
 # Clean Code
 
-Martin, R., 2009. Clean code. A handbook of agile software craftsmanship. Boston: Pearson Education.
+Martin, R.C., 2009. Clean code. A handbook of agile software craftsmanship. Boston: Pearson Education.
 
 
 ## 1. Clean Code
